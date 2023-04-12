@@ -1,0 +1,101 @@
+﻿City,Country,Remote Jobs,Overworked Population,Minimum Vacations Offered (Days),Vacations Taken (Days),Unemployment,Multiple Jobholders
+Oslo,Norway,41.72,11.2,25,25,94.7,9.1
+Bern,Switzerland,44.86,11.4,20,25,99.8,7.6
+Helsinki,Finland,38.92,12.7,25,30,89.3,6.3
+Zurich,Switzerland,44.86,11.9,20,25,99.2,7.6
+Copenhagen,Denmark,41.42,10.5,25,28,94.8,7.6
+Geneva,Switzerland,44.86,11.9,20,25,95.2,7.6
+Ottawa,Canada,37.81,10.1,10,16,95.8,5.6
+Sydney,Australia,38.79,9.7,20,14,95.9,6.4
+Stuttgart,Germany,36.73,11.7,20,26,95.2,4.8
+Munich,Germany,36.73,11.9,20,26,95.6,4.8
+Stockholm,Sweden,44.2,12.7,25,25,91,7.9
+Melbourne,Australia,38.79,9.7,20,14,94.5,6.4
+Amsterdam,Netherlands,41.55,8.6,20,24,95.4,8.1
+Tokyo,Japan,36.52,15.4,10,25.5,96.2,3.6
+Leipzig,Germany,36.73,12.5,20,26,93.5,4.8
+Vancouver,Canada,37.81,10.1,10,16,93.5,6.7
+Auckland,New Zealand,36.25,10.2,20,13,96.2,7.3
+Hamburg,Germany,36.73,11.7,20,26,90.6,4.8
+Toronto,Canada,37.81,10.1,10,16,90.4,5.6
+Frankfurt (am Main),Germany,36.73,11.6,20,26,92.3,4.8
+Dusseldorf,Germany,36.73,11.5,20,26,90.1,4.8
+Berlin,Germany,36.73,12,20,26,86.3,4.8
+Bremen,Germany,36.73,10.8,20,26,85.1,4.8
+Liverpool,UK,43.5,12.8,28,21,94,3.5
+Glasgow,UK,43.5,12.1,28,21,94.5,3.5
+Cologne,Germany,36.73,11.1,20,26,86.8,4.8
+London,UK,43.5,13.8,28,21,93.2,3.5
+Paris,France,37.74,13.8,25,27,88,5.1
+Graz,Austria,36.69,12.5,25,25,88.4,4.4
+Calgary,Canada,37.81,10.1,10,16,88.7,6.2
+Manchester,UK,43.5,12.9,28,21,94,3.5
+Seattle,USA,42.28,13.1,10,8.9,94.8,5.4
+Portland,USA,38.49,12.5,10,8.6,94.8,5.4
+Vienna,Austria,36.69,12.5,25,25,81.3,4.4
+Minneapolis,USA,41.14,13,10,9,97.2,7.7
+Salt Lake City,USA,43.34,13.3,10,8.5,98.2,6.5
+Dublin,Ireland,38.71,12.7,20,21,92.6,2.7
+Boston,USA,44.35,12.3,10,9.2,95,5.5
+San Francisco,USA,44.76,12.9,10,8.3,95.9,4
+Brussels,Belgium,42.34,12.9,20,24,87.8,4.3
+Washington,USA,49.77,12.9,10,8.1,95.4,5.5
+Madrid,Spain,31.69,13.3,22,30,82.6,2.2
+Omaha,USA,38.9,12.2,10,8.9,97.3,7.7
+San Diego,USA,39.52,12.5,10,8.3,94.5,4
+Singapore,Singapore,52.06,16.9,7,12,98.2,2.7
+Denver,USA,42.58,12.4,10,8.7,95.6,5.6
+Virginia Beach,USA,34.64,11.7,10,9.1,95.8,5.2
+Raleigh,USA,41.3,12.5,10,9.1,96.7,5
+Sacramento,USA,40.34,12.2,10,8.3,93.9,4
+Barcelona,Spain,31.69,13.1,22,30,82.5,2.2
+Lisbon,Portugal,33.16,14.7,22,-,89.3,4
+Des Moines,USA,42.66,13.4,10,8.9,95.9,8.6
+Honolulu,USA,35.43,11.8,10,8.5,95.8,5.7
+Budapest,Hungary,30.92,14.4,20,24.1,97.5,1.2
+Colorado Springs,USA,40.31,11.9,10,8.7,95.3,5.6
+Tampa,USA,39.94,12.5,10,9.1,96.4,3.5
+Kansas City,USA,39.48,11.7,10,8.8,96.3,5.8
+Charlotte,USA,37.87,12.5,10,9.1,95.6,5
+New York,USA,41.96,11.9,10,11.4,93.3,4.1
+Atlanta,USA,40.39,12.6,10,8.7,96.2,3.8
+Milwaukee,USA,36.48,12.1,10,9.2,96.4,7.6
+Austin,USA,45.51,13.5,10,8.5,96.7,3.7
+Milan,Italy,34.99,13.2,20,21,91.4,1.4
+Pittsburgh,USA,36.82,12,10,9.2,92.7,6
+Jacksonville,USA,36.61,12.5,10,9.1,96.6,3.5
+Nashville,USA,36.41,13.5,10,8.3,97.4,4.3
+Cincinnati,USA,36.2,12.4,10,9.4,95.5,6.5
+Columbus,USA,39.54,12.7,10,9.4,95.3,6.5
+Chicago,USA,39.18,12.5,10,10.7,93.3,5.2
+Miami,USA,36.7,13,10,9.2,96.1,3.5
+Baltimore,USA,41.55,12,10,8.4,94.6,5.3
+Philadelphia,USA,40.11,12.5,10,9.2,93.3,6
+Indianapolis,USA,35.96,13.2,10,8.8,98.3,5.5
+Tucson,USA,37.29,11.3,10,9,95.5,4
+Cleveland,USA,31.31,12.4,10,9.4,94.8,6.5
+Oklahoma City,USA,37.34,12.4,10,8.3,97.5,4.2
+Dallas,USA,39.69,13.8,10,8.5,95.2,3.7
+Los Angeles,USA,39.09,12.8,10,7,92.6,4
+Phoenix,USA,38.88,13.3,10,9,96.3,4
+San Antonio,USA,37.71,13,10,8.5,95.2,3.7
+Tulsa,USA,35.13,13.2,10,8.3,96.9,4.2
+Wichita,USA,33.54,12.7,10,8.9,96.4,6.2
+Louisville,USA,33.01,13,10,9,95.2,5.2
+Detroit,USA,35.07,12.5,10,9.1,93.6,4.6
+Albuquerque,USA,35.72,11.6,10,8.1,93.1,3.9
+El Paso,USA,34.83,11.5,10,8.5,93.3,3.7
+Houston,USA,37.33,13.7,10,8.5,92.8,3.7
+Seoul,South Korea,37,13.9,15,14,95.6,1.7
+Las Vegas,USA,30.41,12.5,10,8.4,92.1,3.8
+New Orleans,USA,41.57,13.3,10,8.9,93.8,4.4
+St. Louis,USA,37.59,12.8,10,8.8,95.1,5.8
+Memphis,USA,31.81,13.2,10,8.3,93.5,4.3
+Hong Kong,Hong Kong,40.27,17.9,7,12,95.8,3.7
+Montevideo,Uruguay,27.29,16.3,20,-,87.4,4.7
+Buenos Aires,Argentina,28.39,8.8,10,15,86.3,10
+Bangkok,Thailand,16.84,15.1,6,10,99.2,3.7
+Sao Paulo,Brazil,25.65,11.8,10,30,79.6,4.7
+Kuala Lumpur,Malaysia,30.7,17.1,8,12,94.9,1.1
+Dubai,UAE,28.89,23.4,30,27,100,10
+Cape Town,South Africa,26.06,14.8,15,-,50,3.5
